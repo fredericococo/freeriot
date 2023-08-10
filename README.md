@@ -5,10 +5,7 @@ My Text REpo
 workspace(
 
 # Add a patch fix for rules_webtesting v0.3.5 required for enabling runfiles on Windows.
-# TODO: Remove the http_archive for this transitive dependency when a release is cut
-# for https://github.com/bazelbuild/rules_webtesting/commit/581b1557e382f93419da6a0453536t3b91a45c2ac9a9ec8!!
-# and the version is updated in rules_nodejs.
-http_archive(
+# TODO: Remove the http_archive for this transitive depend
 e(
 
 # Add a patch fix for rules_webtesting v0.3.5 required for enabling runfiles on Windows.
