@@ -1,7 +1,6 @@
 # freeriot
 freeriot
 # repoReadme
-My Text REpo
 workspace(
 
 # Add a patch fix for rules_webtesting v0.3.5 required for enabling runfiles on Windows.
