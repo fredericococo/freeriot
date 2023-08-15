@@ -1,7 +1,5 @@
 # freeriot
-freeriot
-# repoReadme
-# Add a patch fix for rules_webtesting v0.3.5 required for enabling runfiles on Windows.
+freeriotenabling runfiles on Windows.
 # TODO: Remove the http_archive for this transitive dependency when a release is cut
 # for https://github.com/bazelbuild/rules_webtesting/commit/581b1557e38
 http_archive(
