@@ -2,10 +2,7 @@
 freeriotenabling runfiles on Windows.
 # TODO: Remove the http_archive for this transitive dependency when a release is cut
 # for https://github.com/bazelbuild/rules_webtesting/commit/581b1557e38
-http_archive(
-# Add a patch fix for rules_webtesting v0.3.5 required for enabling runfiles on Windows.
-# TODO: Remove the http_archive for this transitive dependency when a release is cut
-# for https://github.com/bazelbuild/rules_webtesting/commit/581b1557e382f93419da6a0453536t3b91a45c2ac9a9ec8!!
+http_archive(sting/commit/581b1557e382f93419da6a0453536t3b91a45c2ac9a9ec8!!
 
 http_archive(
     name = "build_bazel_rules_nodejs",
