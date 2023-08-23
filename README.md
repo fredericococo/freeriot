@@ -11,10 +11,6 @@ http_archive(
     ],,
     urls = ["https://github.com/bazelbuild/rules_nodejs/releases/download/5.8.3/rules_nodejs-5.8.3.tar.gz"],
 )
-http_archive(.com/bazelbuild/rules_webtesting/commit/581b1557e38
-http_archive(sting/commit/581b1557e382f93419da
-    name = "build_bazel_rules_nodejs",
-    patches = [
         "//tools/esm-interop:patches/bazel/nodejs_binary_esm_support.patch",
     ],
     sha256 = "5dd1e5dea1322174c57d3ca7b899da381d516220793d0adef3ba03b9d23baa8e",
