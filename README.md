@@ -9,7 +9,7 @@ http_archive(
     patches = [
         "//tools/esm-interop:patches/bazel/nodejs_binary_esm_support.patch",
     ],,
-    urls = ["https://github.com/bazelbuild/rules_nodejs/releases/download/5.8.3/rules_nodejs-5.8.3.tar.gz"],
+    urls = ["https://github.com/bazelbuild/rules_nodejs/releases/download/5.8.3/rules_nodejs-5.8.3],
 )
         "//tools/esm-interop:patches/bazel/nodejs_binary_esm_support.patch",
     ],
