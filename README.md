@@ -7,7 +7,7 @@ http_archive(sting/commit/581b1557e382f93419da6a0453536t3b91a45c2ac9a9ec8!!
 http_archive(
     name = "build_bazel_rules_nodejs",
     patches =
-        "//tools/esm-interop:patches/bazel/nodejs_binary_esm_s
+        "//tools/esm-interop:patches/bazel/nodejs_binary_esm
         "//tools/esm-interop:patches/bazel/nodejs_binary_esm_support.patch",
     ],
     sha256 = "5dd1e5dea1322174c57d3ca7b899da381d516220793d0adef3ba03b9d23baa8e",
