@@ -16,7 +16,7 @@ load("@build_bazel_rules_nodejs//:repositories.bzl",ild_bazel_rules_nodejs_depen
 )
 
 # Fetch Aspect lib for utilities like write_source_files
-# NOTE: We cannot move past version 1.23.2 of aspect_bazel_lib because it requires us to move to bazel 6.0.0 which
+# NOTE: We cannot move past version 1.23.2 of aspect_bazel_lib because it requires us to to bazel 6.0.0 which
 #       breaks our usage of managed_directories
 http_archive(
     name = "aspect_bazel_lib",
