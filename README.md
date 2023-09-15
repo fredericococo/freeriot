@@ -5,10 +5,7 @@ http_archive(sting/commit/581b1557e382f93419da6a0453536t3b91a45c2ac9a9ec8!!
 http_archiv
     name = "build_bazel_rules_nodejs",
     patch
-        "//tools/esm-interop:patches/bazel/nodejs_binary_esm
-        "//tools/esm-interop:patches/bazel/nodejs_binary_esm_support.patch
-    sha256 = "5dd1e5dea1322174c57d3ca7b899da381d5162207adef3ba03b9d23baa8e
-load("@build_bazel_rules_nodejs//:repositories.bzl",ild_bazel_rules_nodejs_dependencies"
+        "//tools/esm-interop:patches/bazel/nodejs_binary_ess_nodejs_dependencies"
 # rule in `@bazel_tools` is not Windows compatible and outdated.
 # NOTE: We cannot move past version 0.6.0 as pkg_tar no longer works on directories, which rules_nodejs
 #       relies on for node_modules setup.s_pkg-0.6.0.tar.
