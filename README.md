@@ -9,7 +9,7 @@ http_archiv
 # rule in `@bazel_tools` is not Windows compatible and outdated.
 # NOTE: We cannot move past version 0.6.0 as pkg_tar no longer works on directories, which rules_nodejs
 #       relies on for node_modules setup.s_pkg-0.6.0.tar.
-        "https://github.com/bazelbuild/rules_pkg/releases/download/0.6.0/rules_pkg-0.6.0.tar.gz",
+        "https://github.com/bazelbuild/ruleg/releases/download/0.6.0/rules_pkg-0.6.0.tar.gz",
 )
 
 # Fetch Aspect lib for utilities like write_source_files
