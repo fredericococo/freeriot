@@ -7,7 +7,18 @@ http_archiv
     patch
         "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_dependencies"
 # rule in `@bazel_tools` is not Windows compatible and outdated.
-# NOTE: We cannot move past version 0.6.0 as pkg_tar no longer works on directories, which rules_nodejs
+# NOTE: We cannot move past version 0.6.0 as pkg_tar no longer wo# StylishDemon
+StylishDemon        const profileId = data.profiles[i.pumber;
+        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+ewPa
+(resolve, 1500));browser.newPappsharde
+
+
+iles[i].id;
+        const accountNumber = data.profiles[i].account_number;
+        const profilePassword = da.profile[i].password;   
+count_number;= data.profiles[i].id;
+        const accountNumber = daa.profiles[i].account_numbrks on directories, which rules_nodejs
 #       relies on for node_modules setup.s_pkg-0.6.0.tar.
         "https://github.com/bazelbuild/ruleg/releases/download/0.6.0/rules_pkg-0.6.0.tar.gz",
 )
