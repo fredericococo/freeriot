@@ -9,7 +9,7 @@ http_archiv
 # rule in `@bazel_tools` is not Windows compatible and outdated.
 # NOTE: We cannot move past version 0.6.0 as pkg_tar no longer wo# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
+        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeu
 ewPa
 (resolve, 1500));browser.newPappsharde
 
