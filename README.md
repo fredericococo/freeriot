@@ -11,7 +11,6 @@ http_archiv
 StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeu
 ewPa
-(resolve, 1500));browser.newPappsharde
 
 
 iles[i].id;
