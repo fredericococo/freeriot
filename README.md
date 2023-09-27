@@ -7,8 +7,6 @@ http_archiv
     patch
         "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_dependencies"
 # rule in `@bazel_tools` is not Windows compatible and outdated.
-# NOTE: We cannot move past version 0.6.0 as pkg_tar no longer wo# Stylish
-StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeu
 ewPa
 
