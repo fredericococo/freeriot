@@ -7,9 +7,6 @@ http_archiv
     patch
         "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_dependencies"
 # rule in `@bazel_tools` is not Windows compatible and outdated.
-        const profilePassrd = data.prof(resolve, 1500));bro
-ewPa
-
 
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
