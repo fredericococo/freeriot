@@ -5,9 +5,7 @@ http_archive(sting/commit/581b1557e382f93419da6a0453536t3b91a45c2ac9a9ec8!!
 http_archiv
     name = "build_bazel_rules_nodejs",
     patch
-        "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_dependencies"
-# rule in `@bazel_tools` is not Windows compatible and outdated.
-
+        "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_depe
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[i].password;   
