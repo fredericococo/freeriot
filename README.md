@@ -8,7 +8,6 @@ http_archiv
         "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_depe
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_numbrks on directories, which rules_nodejs
 #       relies on for node_modules setup.s_pkg-0.6.0.tar.
