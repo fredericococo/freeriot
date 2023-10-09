@@ -13,7 +13,6 @@ iles[i].id;
                     async function pageActions(url, [elementSelector1, elemeel
         const accountNumber = data.profiles[i].account_number;
         const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
