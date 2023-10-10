@@ -7,12 +7,7 @@ http_archiv
     patch
         "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_depe
 iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
-                    }
-
-                    async function pageActions(url, [elementSelector1, elemeel
-        const accountNumber = data.profiles[i].account_number;
-        const accountNumber = daa.profiles[i].account_number;
+        const accountNumber = data.profiles[i].account_numbe
         const profilePassword = data.profili].password;
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
