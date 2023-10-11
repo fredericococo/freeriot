@@ -10,9 +10,6 @@ iles[i].id;
         const accountNumber = data.profiles[i].account_numbe
         const profilePassword = data.profili].password;
 iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
-#       relies on for node_modules setup.s_pkg-0.6.0.tar.
-        "https://github.com/bazelbuild/ruleg/releases/download/0.6.0/rules_pkg-0.6.0.tar.gz",
 )
 
 # Fetch Aspect lib for utilities like write_source_files
