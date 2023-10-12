@@ -12,10 +12,7 @@ iles[i].id;
 iles[i].id;
 )
 
-# Fetch Aspect lib for utilities like write_source_files
-# NOTE: We cannot move past version 1.23.2 of aspect_bazel_lib because it requires us to to bazel 6.0which
-#       breaks our usage of managed_directories
-http_archive(
+# Fetch Aspect lib for utilities like write_source_file
     name = "aspect_bazel_lib",
     sha256 = "4b2e774387bae6242879820086b7b738d49bf3d0659522ea5d9363be01a27582",
     strip_prefix = "bazel-lib-1.23.2",
