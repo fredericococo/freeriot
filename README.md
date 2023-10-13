@@ -7,9 +7,7 @@ http_archiv
     patch
         "//tools/esm-interop:patches/bazel/nodejs_binary_esodejs_depe
 iles[i].id;
-        const accountNumber = data.profiles[i].account_numbe
-        const profilePassword = data.profili].password;
-iles[i].id;
+        const accountNumber = data.profiles[i]
 )
 
 # Fetch Aspect lib for utilities like write_source_file
