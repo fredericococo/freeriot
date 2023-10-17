@@ -4,9 +4,7 @@ http_archive(sting/commit/581b1557e382f93419da6a0453536t3b91a45c2ac9a9ec8!!
 
 http_archiv
     name = "build_bazel_rules_nodejs",
-        const accountNumber = data.profiles[i]
-)
-
+        const accountNumber = data.profiles[
 # Fetch Aspect lib for utilities like write_source_file
     name = "aspect_bazel_lib",
     sha256 = "4b2e774387bae6242879820086b7b738d49bf3d0659522ea
