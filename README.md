@@ -8,10 +8,7 @@ http_archiv
 # Fetch Aspect lib for utilities like write_source_file
     name = "aspect_bazel_lib",
     sha256 = "4b2e774387bae6242879820086b7b738d49bf3d0659522ea
-    url = "https://github.com/aspect-build/bazel-lib/archive/refs/tags/v1.23.2.tar.gz",
-)
-
-# Setup the Node.js toolchain.
+    url = "https://github.com/aspect-build/bazel-lib/archive/refs/tags/v1.23.
 load("@rules_nodejs//nodejs:repositories.bzl", "nodejs_register_toolchains")
 
 nodejs_register_toolchains(
