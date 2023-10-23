@@ -1,6 +1,6 @@
 # freeriotnsitive dependency when a release is cut
 # for https://github.com/bazelbuil19da6a04
-    name = "build_bazel_rules_nodejs",
+    name = "build_bazel_rules_node
         const accountNumber = data.profiles[
 # Fetch Aspect lib for utilities like write_source_file
     name = "aspect_bazel_lib",
