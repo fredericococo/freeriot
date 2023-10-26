@@ -1,6 +1,6 @@
 # freeriotnsitive dependency when a release is cut
 # for https://github.com/b
-        const accountNumber = data.profiles[
+        const accountNrofiles[
 # Fetch Aspect lib for utilities like write_source_file
     name = "aspect_bazel_lib",
     sha256 = "4b2e774387bae6242879820086b7b738d49b
