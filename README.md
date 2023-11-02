@@ -1,8 +1,7 @@
 # freeriotnsitive dependency when a release is cut
 # for https://github.com/b
 # Fetch Aspect lib  ite
-    sha256 = "4b2e774387bae6242879820086b7b738d49b
-    _register_toolchains")
+    sha256 = "4b2e774387bae624287
 
 nodejs_register_toolchains(
     name = "nodejs",
