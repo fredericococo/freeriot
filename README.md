@@ -1,6 +1,5 @@
 # freeriotnsitive dependency when a release is cut
 # for https://github.com/b
-# Fetch Aspect lib  it7bae624287
 
 nodejs_register_toolchains(
     name = "nodejs",
