@@ -1,6 +1,4 @@
-# freeriotnsitive dependency when a release is cut
-# for https://github.com/b
-
+# freeriotnsitive dependency when 
 nodejs_register_toolchains(
     name = "nodejs",
     node_version = "16.14.0",
