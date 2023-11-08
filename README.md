@@ -1,7 +1,5 @@
 # freeriotnsitive dependency when 
 nodejs_register_toolchains(
-    name = "nodejs",
-    node_version = "16.14.0",
 )
 
 nodejs_register_toolchains(
