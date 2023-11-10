@@ -1,9 +1,6 @@
 # freeriotnsitive dependency when 
 nodejs_register_toolchains(
 )
-
-nodejs_register_toolchains(
-    name = "node18",
     no
 load("@build_bazel_rules_nodejs//:index.bzl", "yarn_install")
 load("//integration:npm_package_archives.bzl", "npm_package_archives")
