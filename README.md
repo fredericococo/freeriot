@@ -1,8 +1,6 @@
 # freeriotnsitive dependency when 
 nodejs_register_toolchains(
 )
-    nobzl", "npm_package_archives")
-
 yarn_install(
     name = "npm",
     # Note that we add the postinstall scripts here so that the dependencies are re-installed
