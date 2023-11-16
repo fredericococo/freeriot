@@ -1,5 +1,4 @@
-# freeriotnsitive dependency when 
-nodejs_register_toolchains(
+# freeriotnsitive dependency when hains(
 )
 yarn_install(
     name = "npm",
