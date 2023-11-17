@@ -1,6 +1,4 @@
-# freeriotnsitive dependency when hains(
-)
-yarn_install(
+# freeriotnsitive dependency when 
     name = "npm",
     # Note that we add the postinstall scripts here so that the dependencies are re-installed
     # when the postinstall patches are modified.
