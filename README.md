@@ -9,9 +9,6 @@
     # We prefer to symlink the `node_modules` to only maintain a single install.
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,
-    yarn = YARN_LABEL,
-    yarn_lock = "//:yarn.lock",iles[i].id;
-count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
