@@ -5,8 +5,6 @@
    
     # Currently disabled due to:
     exports_directories_only = False,
-    manual_build_file_contejson",
-    # We prefer to symlink the `node_modules` to only maintain a single install.
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,
         const accountNumber = daa.profiles[i].account_number;
