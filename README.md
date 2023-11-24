@@ -7,13 +7,7 @@
     exports_directories_only = False,
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,
-        const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passw
-        const profilePassword = data.profili].password;
-iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profiles[es[i].password;        
-                        await page4.waitForNetworkIdle(l
+        const accountNumber = daa.profiles[i].account_number
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
                         await page4.waitForNetworkIdle(
