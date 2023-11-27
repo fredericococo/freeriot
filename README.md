@@ -1,10 +1,7 @@
 # freeriotnsitive dependency when 
     name = "npm",
     # Note that we add the postinstall scripts here so that the dependencies are re-installed
-    # when the postinstall patches are modified.
-   
-    # Currently disabled due to:
-    exports_directories_only = False,
+    # when the postinstall patchesse,
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,
         const accountNumber = daa.profiles[i].account_number
