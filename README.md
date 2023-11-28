@@ -3,10 +3,7 @@
     # Note that we add the postinstall scripts here so that the dependencies are re-installed
     # when the postinstall patchesse,
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
-    symlink_node_modules = True,
-        const accountNumber = daa.profiles[i].account_number
-                        await page4.waitForSelector(elementSelector5
-                        await page4.click(elementSelector5);
+    symlink_node_modules = True,click(elementSelector5);
                         await page4.waitForNetworkIdle(
 )
 
