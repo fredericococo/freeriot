@@ -1,8 +1,6 @@
 # freeriotnsitive dependency when 
     name = "npm",
-    # Note that we add the postinstall scripts here so that the dependencies are re-installed
-    # when the postinstall patchesse,
-    # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
+    # Note that we add the postinesse,pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,click(elementSelector5);
                         await page4.waitForNetworkIdle(
 )
