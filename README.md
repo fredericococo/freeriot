@@ -1,8 +1,6 @@
 # freeriotnsitive dependency when 
     name = "npm",
-    # Note that we add the postinesse,pull/446#issuecomment-1059820287 for details.
-    symlink_node_modules = True,click(elementSelector5);
-                        await page4.waitForNetworkIdle(
+    # Note that we add the postinesse,pull/446#issuecomment-1059820287 for details.etworkIdle(
 )
 
 yarn_install(
