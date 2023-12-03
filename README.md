@@ -1,5 +1,5 @@
 # freeriotnsitive dependency when 
-    name = "npm",,pull/446#issuecomment-1059820287 for details.etworkIdle(
+    name = "npm",,pull/uecomment-1059820287 for details.etworkIdle(
 )
 
 yarn_install(
