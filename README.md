@@ -3,13 +3,7 @@
 yarn_install(
     name = "aio_npm",
     # Note that we add the postinstall scripts here so that the dependencies are re-installed
-    # when the postinstall patches are modified.
-    data = [
-        YARN_LABEL,
-        "//:.yarnrc",
-        "//aio:tools/cli-patches/bazel-architect-output.patch",
-        "//aio:tools/cli-patches/patch.js",
-    ],
+    # when the postinstall patches are modifi
     # Currently disabled due to:
     #  1. Missing Windows support currently.
     #  2. Incompatibilites with the `ts_library` rule.
