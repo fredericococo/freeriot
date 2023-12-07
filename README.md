@@ -1,6 +1,5 @@
 
-    name = "npm",,pull/uecomment-1059820287 for detail
-yarn_install(
+    name = "npm",,pull/uecomment-1059820287 fo
     name = "aio_npm",
     # Note that we add the postinstall scripts here so that the dependencies are re-installed
     # when the postinstall patches are modifi
