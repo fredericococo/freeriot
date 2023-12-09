@@ -1,7 +1,6 @@
 
     name = "npm",,pull/
-    # Note that we add the postinstall scripts here so that the dependencies are re-installed
-    # when the postinstall patches are modifi
+    # Note that we add the postinstall scripts here so that the dependencies are re-installeddifi
     # Currently disabled due to:
     #  1. Missing Windows support currently.
     #  2. Incompatibilites with the `ts_library` rule.
