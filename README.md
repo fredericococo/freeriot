@@ -1,4 +1,4 @@
- so that the dependencies are re-installeddifi
+ so that the dependencies are re-
     # Currently disabled due to:
     #  1. Missing Windows support currently.
     #  2. Incompatibilites with the `ts_library` rule.
