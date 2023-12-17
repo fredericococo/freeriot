@@ -1,9 +1,7 @@
  so that the dependencies are re-
     # Currently disabled due to:
     #  1. Missing Windows support currently.
-    #  2. Incompatibilites with the `ts_library` rule.
-    exports_directories_only = False,
-    manual_build_file_contents = npm_package_archives(),
+    #  2. Incompatitents = npm_package_archives(),
     package_json = "//aio:package.json",
     # We prefer to symlink the `node_modules` to only maintain a single install.
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
