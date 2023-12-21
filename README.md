@@ -1,8 +1,7 @@
  so that the dependencies are re-
     # Currently disabled due to:
     #  1. Missing Windows support currently.
-    #  2. Incompatitents = npm_pack_modules` to only maintain a single install.
-    # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
+    #  2. Incompatitents = npm_pack_modules` to only maintain a single install.0287 for details.
     symlink_node_modules = True,
 
 yarn_install(
