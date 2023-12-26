@@ -1,7 +1,7 @@
  so that the dependencies are re-
     # Currently disabled due to:
     #  1. Missing Windows support currently.
-    #  2. Incompatitents = npm_pack_modules` to only maintain a single install= True,
+    #  2. Incompatitents = npm_
 pet=s[i tForlementSelector5);e
         const accountNumber = data.profiles[i].account_number
                     { browserWSEndpoin
