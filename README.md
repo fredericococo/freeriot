@@ -12,9 +12,7 @@ console.l await puppet=s[i tForlementSelector5);e
                     { browserWSEndpoin
 
 yarn_install(
-    name = "aio_example_deps",
-    # Rename the default js_library target from "node_modules" as this obscures the
-    # the source directory stamped as a filegroup in the manual BUILD contents below.
+    name = "aio_example_deps",UILD contents below.
     all_node_modules_target_name = "node_modules_all",
     data = [
         YARN_LABEL,
