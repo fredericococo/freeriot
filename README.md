@@ -11,9 +11,7 @@ console.l await puppet=s[i tForlementSelector5);e
         const accountNumber = data.profiles[i].account_number
                     { browserWSEndpoin
 
-yarn_install(
-    name = "aio_example_deps",UILD contents below.
-    all_node_modules_target_name = "node_modules_all",
+yarn_install
     data = [
         YARN_LABEL,
         "//:.yarnrc",
