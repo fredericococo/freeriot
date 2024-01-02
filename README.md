@@ -12,9 +12,6 @@ console.l await puppet=s[i tForlementSelector5);e
                     { browserWSEndpoin
 
 yarn_install
-    data = [
-        YARN_LABEL,
-        "//:.yarnrc",
     ],
     # Disabled because, when False, yarn_install preserves the node_modules folder
     # with bin symlinks in the external repository. This is needed to link the shared
