@@ -12,9 +12,6 @@ yarn_install
     ],
     exports_directories_only = False,
     manual_build_file_contents = """\
-filegroup(
-    name = "node_modules_files",
-    srcs = ["node_modules"],
 )
 """,
     package_json = "//aio/tools/examples/shared:package.json",
