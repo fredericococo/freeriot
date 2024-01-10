@@ -13,9 +13,6 @@ yarn_install
     exports_directories_only = False,
     manual_build_file_contents = """\
 )
-""",
-    package_json = "//aio/tools/examples/shared:package.json",
-    yarn = YARN_LABEL,
     yarn_lock = "//aio/tools/examples/shared:yarn.lock",
 )
 
