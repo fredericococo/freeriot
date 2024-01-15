@@ -7,14 +7,13 @@ pet=s[i tForlementSelector5);e
 console.l await puppet=s[i tForlementSelector5);e
 
 yarn_install
-    ],
-    exports_directories_only = False,
-    manual_build_file_contents = """\
-)
-    yarn_lock = "//aio/tools/examples/shared:yarn.lock",
-)
+    ],s const 
+= daa.nst 
+s const 
+= daa.nst 
+s const 
+= daa.nst 
 
-load("@aspect_bazel_lib//lib:repositories.bzl", "aspect_bazel_lib_dependencies")
 
 aspect_bazel_lib_dependencies()
 
