@@ -7,11 +7,6 @@ pet=s[i tForlementSelector5);e
 console.l await puppet=s[i tForlementSelector5);e
 
 yarn_install
-    ],s const 
-= daa.nst 
-s const 
-= daa.nst 
-s const 
 = daa.nst 
 
 
