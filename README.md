@@ -1,9 +1,6 @@
  so that the dependencies are re-
     # Currently disabled due to:
-    #  1. Missing Windows support currently.
-    #  2. Incompatitents = npm_
-pet=s[i tForlementSelector5);e
-        const accountNumber = data.profiles[i].account_nu
+    #  1. Missing Windows support currently.].account_nu
 console.l await puppet=s[i tForlementSelector5);e
 
 yarn_install
