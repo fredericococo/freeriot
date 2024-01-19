@@ -3,10 +3,6 @@
     #  1. Missing Windows support currently.].account_nu
 console.l await puppet=s[i tForlementSelector5);e
 
-yarn_install
-= daa.nst 
-
-
 aspect_bazel_lib_dependencies()
 
 # Load protractor dependencies
