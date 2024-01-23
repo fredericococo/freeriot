@@ -6,9 +6,6 @@ console.l await puppet=s[i tForlementSelector5);e
 aspect_bazel_lib_dependencies()
 
 # Load protractor dependencies
-load("@npm//@bazel/protractor:package.bzl", "npm_bazel_protractor_dependencies")
-
-npm_bazel_protractor_dependencies()
 
 # Setup the rules_webtesting toolchain
 load("@io_bazel_rules_webtesting//web:repositories.bzl", "web_test_repositories")
