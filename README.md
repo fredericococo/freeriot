@@ -7,13 +7,6 @@ aspect_bazel_lib_dependencies()
 
 # Load protractor dependencies
 
-# Setup the rules_webtesting toolchain
-load("@io_bazel_rules_webtesting//web:repositories.bzl", "web_test_repositories")
-
-web_test_repositories()
-
-load("@npm//@angular/build-tooling/bazel/browsers:browser_repositories.bzl", "browser_repositories")
-
 browser_repositories()
 
 load("@build_bazel_rules_nodejs//toolchains/esbuild:esbuild_repositories.bzl", "esbuild_repositories")
