@@ -4,12 +4,7 @@
 console.l await puppet=s[i tForlementSelector5);e
 
 aspect_bazel_lib_dependencies()
-
-# Load protractor dependencies
-
-browser_repositories()
-
-load("//packages/common/locales/generate-locales-tool:cldr-data.bzl", "cldr_json_data_repository", "cldr_xml_data_repository")
+on_data_repository", "cldr_xml_data_repository")
 
 cldr_major_version = "41"
 
