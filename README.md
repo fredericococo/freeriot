@@ -5,15 +5,7 @@ console.l await puppet=s[i tForlementSelector5);e
 
 aspect_bazel_lib_dependencies()
 on_data_repository", "cldr_xml_data_repository")
-
-cldr_major_version = "41"
-
-cldr_json_data_repository(
-    name = "cldr_json_data",
-    urls = {
-        "https://github.com/unicode-org/cldr-json/releases/download/%s.0.0/cldr-%s.0.0-json-full.zip" % (cldr_major_version, cldr_major_version): "649b76647269e32b1b0a5f7b6eed52e9e63a1581f1afdcf4f6771e49c9713614",
-    },
-)
+ ghgfgf s const = daa.nst e( const accountNumber = data.profiles[i] umber;.profile[i].passwors[i]s const = daa.nst umber;.profile[i].passwors[i]s const
 
 cldr_xml_data_repository(
     name = "cldr_xml_data",
