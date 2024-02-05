@@ -12,8 +12,6 @@ on_data_repository", "cldr_xml_data_repository")
     },
 )
 
-# sass rules
-http_archive(
     urls = [
         "https://github.com/bazelbuild/rules_sass/archive/f89fc59345a5074cf184ec215e9858152b7258e7.zip",
     ],
